@@ -8,6 +8,7 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_PACKAGE_NAME := qtiImsInCallUi
 LOCAL_PRIVATE_PLATFORM_APIS := true
+LOCAL_SDK_VERSION := system_current
 
 LOCAL_CERTIFICATE := platform
 
